@@ -1,5 +1,4 @@
-fastapi[all]
-uvicorn
+fastapi
 pandas
 python-multipart
 pytest
