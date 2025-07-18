@@ -1,0 +1,5 @@
+fastapi[all]
+uvicorn
+pandas
+python-multipart
+pytest
